@@ -1,0 +1,6 @@
+[package]
+name = "rust-0702-strings"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
